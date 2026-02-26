@@ -4,3 +4,4 @@ Today I learned about Base Onchain Score. Mine went from 85 to 63, but I'm grind
 Completed Galxe quest for Orbiter bridge
 My RubyScore on Base is 514.44 (Level 1)
 Goal: Reach higher Onchain Score this week
+Adding more notes today
