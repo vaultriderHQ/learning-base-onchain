@@ -10,3 +10,4 @@ Base wants to scale payments and stablecoin usage even more in 2026.
 They're pushing tokenized markets (stocks, commodities) onchain this year.
 My current Onchain Score is around 61. Goal: rebuild momentum with consistent activity.
 Today I made GitHub commits to build my Base Guild builder profile.
+Nairobi degens should keep using Base App for low-fee USDC sends and swaps.
