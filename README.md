@@ -6,3 +6,4 @@ My RubyScore on Base is 514.44 (Level 1)
 Goal: Reach higher Onchain Score this week
 Adding more notes today
 April 6, 2026: Base released its 2026 roadmap focusing on global markets, stablecoins, and builders
+Base wants to scale payments and stablecoin usage even more in 2026.
