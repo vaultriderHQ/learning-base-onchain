@@ -19,3 +19,4 @@ My current Base Onchain Score is around 61. Working on consistent activity to br
 Base 2026 roadmap focuses on tokenized markets, stablecoin payments, and builder tools.
 Today I used the Base App for a small USDC swap.
 Nairobi builders advantage: very low fees on Base makes daily activity easy.
+Goal this week: Complete at least 5 diverse on-chain actions.
