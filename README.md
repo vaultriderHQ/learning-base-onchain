@@ -16,3 +16,4 @@ Plan for this week: small Aerodrome swap + Zora mint + Base App activity.
 onsistent small actions > hype. Building long-term on Base.
 April 21, 2026: Continuing daily GitHub commits to build my Base Guild profile.
 My current Base Onchain Score is around 61. Working on consistent activity to bring it back up.
+Base 2026 roadmap focuses on tokenized markets, stablecoin payments, and builder tools.
