@@ -22,3 +22,4 @@ Nairobi builders advantage: very low fees on Base makes daily activity easy.
 Goal this week: Complete at least 5 diverse on-chain actions.
 Still no official announcement on $BASE token or airdrop. Focusing on real usage instead of hype.
 Added more notes about Aerodrome and Zora as my favorite protocols on Base.
+Consistency beats big bursts. Small daily commits and txns are the way.
